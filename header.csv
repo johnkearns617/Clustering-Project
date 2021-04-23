@@ -1,0 +1,65 @@
+0,player_name
+1,team
+2,conf
+3,GP
+4,Min_per
+5,ORtg
+6,usg
+7,eFG
+8,TS_per
+9,ORB_per
+10,DRB_per
+11,AST_per
+12,TO_per
+13,FTM
+14,FTA
+15,FT_per
+16,twoPM
+17,twoPA
+18,twoP_per
+19,TPM
+20,TPA
+21,TP_per
+22,blk_per
+23,stl_per
+24,ftr
+25,yr
+26,ht
+27,num
+28,porpag
+29,adjoe
+30,pfr
+31,year
+32,pid
+33,type
+34,Rec Rank
+35, ast/tov
+36, rimmade
+37, rimmade+rimmiss
+38, midmade
+39, midmade+midmiss
+40, rimmade/(rimmade+rimmiss)
+41, midmade/(midmade+midmiss)
+42, dunksmade
+43, dunksmiss+dunksmade
+44, dunksmade/(dunksmade+dunksmiss)
+45, pick
+46, drtg
+47,adrtg
+48, dporpag
+49, stops
+50, bpm
+51, obpm
+52, dbpm
+53, gbpm
+54,mp
+55,ogbpm
+56,dgbpm
+57,oreb
+58,dreb
+59,treb
+60,ast
+61,stl
+62,blk
+63,pts
+64,position

@@ -1,0 +1,1528 @@
+Guard
+Pos
+Prediction
+Eligible
+Transfer
+Adam Miller
+Adam Miller
+6-3 / 170
+ 0.9884 (HS)
+PG
+Illinois
+?
+Boogie Ellis
+Boogie Ellis
+6-2 / 165
+ 0.9868 (HS)
+PG
+Memphis
+?
+Micah Peavy
+Micah Peavy
+6-7 / 172
+ 0.9836 (HS)
+SG
+Texas Tech
+?
+Deivon Smith
+Deivon Smith
+5-11 / 160
+ 0.9778 (HS)
+PG
+Mississippi State
+?
+Symir Torrence
+Symir Torrence
+6-3 / 190
+ 0.9713 (HS)
+CG
+Marquette
+?
+Noah Locke
+Noah Locke
+6-2 / 160
+ 0.9701 (HS)
+SG
+Florida
+?
+Darryl Morsell
+Darryl Morsell
+6-4 / 205
+ 0.9685 (HS)
+SG
+Maryland
+?
+Jaykwon Walton
+Jaykwon Walton
+6-6 / 195
+ 0.9682 (HS)
+CG
+Georgia
+?
+KyKy Tandy
+KyKy Tandy
+6-1 / 190
+ 0.9652 (HS)
+CG
+Xavier
+?
+Josh Nickelberry
+Josh Nickelberry
+6-4 / 175
+ 0.9566 (HS)
+SG
+Louisville
+?
+Jalen Cone
+Jalen Cone
+5-11 / 163
+ 0.9561 (HS)
+PG
+Virginia Tech
+?
+Miller Kopp
+Miller Kopp
+6-6 / 200
+ 0.9449 (HS)
+SG
+Northwestern
+?
+Jacob Young
+Jacob Young
+6-2 / 185
+ 0.9414 (HS)
+PG
+Sitting One
+Rutgers
+?
+Damion Baugh
+Damion Baugh
+6-4 / 185
+ 0.9401 (HS)
+PG
+Memphis
+?
+Jaelen House
+Jaelen House
+6-2 / 160
+ 0.9374 (HS)
+PG
+Arizona State
+?
+Tyler Harris
+Tyler Harris
+5-9 / 150
+ 0.9364 (HS)
+PG
+Iowa State
+?
+Jamal Mashburn Jr.
+Jamal Mashburn Jr.
+6-2 / 175
+ 0.9337 (HS)
+CG
+Minnesota
+?
+Tre Williams
+Tre Williams
+6-5 / 195
+ 0.9314 (HS)
+SG
+Minnesota
+?
+Armaan Franklin
+Armaan Franklin
+6-4 / 195
+ 0.9257 (HS)
+SG
+Indiana
+?
+Tyon Grant-Foster
+Tyon Grant-Foster
+6-7 / 190
+ 0.9250 (HS)
+SG
+Kansas
+?
+Kyler Edwards
+Kyler Edwards
+6-4 / 195
+ 0.9219 (HS)
+SG
+Texas Tech
+?
+DaJuan Gordon
+DaJuan Gordon
+6-3 / 170
+ 0.9208 (HS)
+SG
+Kansas State
+?
+Juhwan Harris-Dyson
+Juhwan Harris-Dyson
+6-5 / 198
+ 0.9139 (HS)
+SG
+California
+?
+Marcus Carr
+Marcus Carr
+6-2 / 195
+ 0.9123 (HS)
+PG
+Minnesota
+?
+Caleb Grill
+Caleb Grill
+6-3 / 180
+ 0.9111 (HS)
+SG
+Iowa State
+100%
+UNLV
+?
+David Mutaf
+David Mutaf
+6-5 / 190
+ 0.9016 (HS)
+SG
+Minnesota
+?
+William Douglas
+William Douglas
+6-5 / 193
+ 0.8999 (HS)
+SG
+SMU
+?
+Rasir Bolton
+Rasir Bolton
+6-3 / 170
+ 0.8921 (HS)
+PG
+Iowa State
+?
+Rudi Williams
+Rudi Williams
+6-3 / 180
+ 0.8900 (HS)
+PG
+Kansas State
+?
+Tye Fagan
+Tye Fagan
+6-3 / 170
+ 0.8890 (HS)
+PG
+Georgia
+?
+Erik Stevenson
+Erik Stevenson
+6-4 / 180
+ 0.8856 (HS)
+SG
+Washington
+?
+Xavier Johnson
+Xavier Johnson
+6-3 / 170
+ 0.8849 (HS)
+CG
+Pittsburgh
+?
+Dimingus Stevens
+Dimingus Stevens
+6-5 / 180
+ 0.8822 (HS)
+SG
+Seton Hall
+?
+Fatts Russell
+Fatts Russell
+5-10 / 165
+ 0.8819 (HS)
+PG
+Rhode Island
+?
+Xavier Pinson
+Xavier Pinson
+6-2 / 170
+ 0.8814 (HS)
+PG
+Missouri
+?
+Trey Phipps
+Trey Phipps
+6-2 / 170
+ 0.8812 (HS)
+SG
+Oklahoma
+?
+Tyson Jolly
+Tyson Jolly
+6-4 / 190
+ 0.8800 (HS)
+PG
+SMU
+?
+Xavier Castaneda
+Xavier Castaneda
+6-1 / 188
+ 0.8791 (HS)
+PG
+USF
+?
+Darius McNeill
+Darius McNeill
+6-3 / 185
+ 0.8786 (HS)
+PG
+SMU
+?
+Jahcobi Neath
+Jahcobi Neath
+6-3 / 170
+ 0.8786 (HS)
+PG
+Wake Forest
+?
+David Collins
+David Collins
+6-4 / 210
+ 0.8778 (HS)
+SG
+Immediate
+USF
+?
+Noah Farrakhan
+Noah Farrakhan
+6-2 / 170
+ 0.8777 (HS)
+PG
+East Carolina
+?
+Marcus Tsohonis
+Marcus Tsohonis
+6-3 / 185
+ 0.8731 (HS)
+SG
+Washington
+?
+Mikal Starks
+Mikal Starks
+6-0 / 180
+ 0.8728 (HS)
+PG
+Georgia
+?
+Brenden Tucker
+Brenden Tucker
+6-3 / 180
+ 0.8723 (HS)
+SG
+College of Charleston
+?
+Maxwell Evans
+Maxwell Evans
+6-2 / 190
+ 0.8703 (HS)
+SG
+Immediate
+Vanderbilt
+?
+Ques Glover
+Ques Glover
+5-11 / 175
+ 0.8678 (HS)
+PG
+Florida
+?
+Aquan Smart
+Aquan Smart
+6-3 / 200
+ 0.8678 (HS)
+PG
+Maryland
+?
+Elijah Wood
+Elijah Wood
+6-5 / 190
+ 0.8678 (HS)
+CG
+Nebraska
+?
+Lamar Norman
+Lamar Norman
+6-2 / 170
+ 0.8628 (HS)
+SG
+Duquesne
+?
+Nikola Djogo
+Nikola Djogo
+6-7 / 203
+ 0.8563 (HS)
+PG
+Notre Dame
+?
+Quadry Adams
+Quadry Adams
+6-3 / 170
+ 0.8528 (HS)
+PG
+Wake Forest
+?
+Jamari Wheeler
+Jamari Wheeler
+6-0 / 150
+ 0.8500 (HS)
+PG
+Penn State
+?
+Jordan Goldwire
+Jordan Goldwire
+6-2 / 170
+ 0.8496 (HS)
+SG
+Duke
+?
+Drew Buggs
+Drew Buggs
+6-1 / 175
+ 0.8333 (HS)
+PG
+Missouri
+?
+Vince Cole
+Vince Cole
+6-6 / 195
+ 0.8278 (HS)
+SG
+St. John's
+?
+Mason Madsen
+Mason Madsen
+6-3 / 175
+ 0.8228 (HS)
+CG
+Cincinnati
+?
+Cameron Tyson
+Cameron Tyson
+6-3 / 185
+ 0.8200 (HS)
+SG
+Houston
+?
+Sincere Carry
+Sincere Carry
+5-11 / 180
+ 0.8200 (HS)
+PG
+Duquesne
+?
+John Buggs III
+John Buggs III
+6-2 / 170
+ 0.7900 (HS)
+PG
+Massachusetts
+?
+Peyton Broughton
+Peyton Broughton
+6-5 / 195
+ 0.7667 (HS)
+SG
+Eastern Kentucky
+?
+Tai Bibbs
+Tai Bibbs
+6-3 / 170
+ N/A (HS)
+PG
+Columbia
+?
+Justin Brown
+Justin Brown
+6-6 / 218
+ N/A (HS)
+SG
+USF
+?
+Austin Butler
+Austin Butler
+6-4 / 200
+ N/A (HS)
+SG
+Holy Cross
+?
+Antonio Daye
+Antonio Daye
+6-0 / 175
+ N/A (HS)
+PG
+FIU
+?
+Jakigh Dottin
+Jakigh Dottin
+6-2 / 210
+ N/A (HS)
+PG
+Immediate
+Towson
+?
+Mason Faulkner
+Mason Faulkner
+6-1 / 165
+ N/A (HS)
+PG
+Western Carolina
+?
+Kyle Feit
+Kyle Feit
+6-4 / 190
+ N/A (HS)
+SG
+Arizona State
+?
+Brevin Galloway
+Brevin Galloway
+6-0 / 165
+ N/A (HS)
+PG
+Immediate
+College of Charleston
+?
+Thomasi Gilgeous-Alexander
+Thomasi Gilgeous-Alexander
+6-5 / 160
+ N/A (HS)
+SG
+Evansville
+?
+Sam Griffin
+Sam Griffin
+6-2 / 160
+ N/A (HS)
+PG
+UT-Arlington
+?
+Gary Harris Jr.
+Gary Harris Jr.
+6-6 / 185
+ N/A (HS)
+SG
+Siena
+?
+Braun Hartfield
+Braun Hartfield
+- / -
+ N/A (HS)
+SG
+San Diego
+?
+Jacquez Henderson
+Jacquez Henderson
+6-2 / 185
+ N/A (HS)
+SG
+Indiana
+?
+Marvin Johnson
+Marvin Johnson
+6-5 / 185
+ N/A (HS)
+SG
+Eastern Illinois
+?
+Jordan Kellier
+Jordan Kellier
+6-6 / 215
+ N/A (HS)
+SG
+Utah
+?
+Rich Kelly
+Rich Kelly
+6-1 / 175
+ N/A (HS)
+PG
+Boston College
+?
+Takal Molson
+Takal Molson
+6-5 / 205
+ N/A (HS)
+SG
+Seton Hall
+?
+Elijah Olaniyi
+Elijah Olaniyi
+6-5 / 205
+ N/A (HS)
+SG
+Miami
+?
+Deshon Parker
+Deshon Parker
+6-4 / 195
+ N/A (HS)
+CG
+Immediate
+Appalachian State
+?
+Nate Pryor
+Nate Pryor
+6-4 / 165
+ N/A (HS)
+PG
+Washington
+?
+Aaryn Rai
+Aaryn Rai
+6-4 / 170
+ N/A (HS)
+SG
+Dartmouth
+?
+Isaiah Range
+Isaiah Range
+- / -
+ N/A (HS)
+PG
+?
+James Reese
+James Reese
+6-4 / 167
+ N/A (HS)
+SG
+North Texas
+?
+Gabe Stefanini
+Gabe Stefanini
+6-3 / 197
+ N/A (HS)
+PG
+Columbia
+?
+Myles Warren
+Myles Warren
+6-3 / 185
+ N/A (HS)
+PG
+Washington State
+?
+Deschon Winston
+Deschon Winston
+6-2 / 180
+ N/A (HS)
+PG
+Central Michigan
+?
+Forward
+Pos
+Prediction
+Eligible
+Transfer
+Jaemyn Brakefield
+Jaemyn Brakefield
+6-8 / 210
+ 0.9846 (HS)
+PF
+Ole Miss
+100%
+Duke
+?
+Gerald Liddell
+Gerald Liddell
+6-6 / 180
+ 0.9820 (HS)
+SF
+Texas
+?
+DJ Jeffries
+DJ Jeffries
+6-7 / 218
+ 0.9801 (HS)
+SF
+Mississippi State
+100%
+Memphis
+?
+Cam'Ron Fletcher
+Cam'Ron Fletcher
+6-6 / 180
+ 0.9764 (HS)
+SF
+Kentucky
+?
+Tristan Enaruna
+Tristan Enaruna
+6-9 / 205
+ 0.9763 (HS)
+SF
+Kansas
+?
+Greg Gantt
+Greg Gantt
+6-7 / 195
+ 0.9743 (HS)
+SF
+Providence
+?
+Christian Brown
+Christian Brown
+6-6 / 205
+ 0.9730 (HS)
+SF
+Georgia
+?
+Nate Reuvers
+Nate Reuvers
+6-9 / 210
+ 0.9723 (HS)
+PF
+Wisconsin
+?
+Corey Walker
+Corey Walker
+6-8 / 219
+ 0.9707 (HS)
+PF
+Tennessee
+?
+RaeQuan Battle
+RaeQuan Battle
+6-5 / 175
+ 0.9693 (HS)
+SF
+Washington
+?
+J'Raan Brooks
+J'Raan Brooks
+6-9 / 220
+ 0.9693 (HS)
+PF
+Washington
+?
+Tre Mitchell
+Tre Mitchell
+6-9 / 235
+ 0.9673 (HS)
+PF
+Massachusetts
+?
+Hameir Wright
+Hameir Wright
+6-9 / 220
+ 0.9595 (HS)
+PF
+Immediate
+Washington
+?
+Olivier-Maxence Prosper
+Olivier-Maxence Prosper
+6-8 / 205
+ 0.9589 (HS)
+PF
+Clemson
+?
+Pavlo Dziuba
+Pavlo Dziuba
+6-8 / 235
+ 0.9558 (HS)
+PF
+Arizona State
+?
+Matt Bradley
+Matt Bradley
+6-4 / 190
+ 0.9465 (HS)
+SF
+California
+?
+Timmy Allen
+Timmy Allen
+6-6 / 200
+ 0.9369 (HS)
+SF
+Utah
+?
+Tari Eason
+Tari Eason
+6-8 / 210
+ 0.9341 (HS)
+PF
+Cincinnati
+?
+Victor Iwuakor
+Victor Iwuakor
+6-8 / 210
+ 0.9255 (HS)
+PF
+Oklahoma
+?
+Clevon Brown
+Clevon Brown
+6-8 / 232
+ 0.9245 (HS)
+SF
+Vanderbilt
+?
+Ethan Henderson
+Ethan Henderson
+6-8 / 210
+ 0.9217 (HS)
+PF
+Arkansas
+?
+Garrison Brooks
+Garrison Brooks
+6-9 / 235
+ 0.9216 (HS)
+PF
+Mississippi State
+100%
+North Carolina
+?
+Christian Bishop
+Christian Bishop
+6-7 / 190
+ 0.9211 (HS)
+SF
+Creighton
+?
+Daniel Ramsey
+Daniel Ramsey
+6-8 / 220
+ 0.9208 (HS)
+PF
+Xavier
+?
+Yvan Ouedraogo
+Yvan Ouedraogo
+6-8 / 240
+ 0.9161 (HS)
+PF
+Nebraska
+?
+Dudley Blackwell
+Dudley Blackwell
+6-6 / 215
+ 0.9140 (HS)
+SF
+Iowa State
+?
+Jamal Cain
+Jamal Cain
+6-7 / 175
+ 0.9139 (HS)
+SF
+Marquette
+?
+Darlinstone Dubar
+Darlinstone Dubar
+6-5 / 180
+ 0.9115 (HS)
+SF
+Iowa State
+?
+Emmitt Matthews Jr.
+Emmitt Matthews Jr.
+6-6 / 160
+ 0.9112 (HS)
+SF
+West Virginia
+?
+Musa Jallow
+Musa Jallow
+6-5 / 200
+ 0.9101 (HS)
+SF
+Ohio State
+?
+Shon Robinson
+Shon Robinson
+6-10 / 210
+ 0.9025 (HS)
+PF
+Ole Miss
+?
+Jarvis Omersa
+Jarvis Omersa
+6-6 / 235
+ 0.8975 (HS)
+PF
+Minnesota
+?
+Alfred Hollins
+Alfred Hollins
+6-6 / 185
+ 0.8930 (HS)
+SF
+Oregon State
+?
+Drew Pember
+Drew Pember
+6-10 / 190
+ 0.8919 (HS)
+PF
+Tennessee
+?
+Esahia Nyiwe
+Esahia Nyiwe
+6-10 / 210
+ 0.8900 (HS)
+PF
+Texas Tech
+?
+Keondre Montgomery
+Keondre Montgomery
+6-6 / 190
+ 0.8897 (HS)
+SF
+Mississippi State
+?
+Davonte Gaines
+Davonte Gaines
+6-7 / 178
+ 0.8875 (HS)
+SF
+Tennessee
+?
+Ethan Chargois
+Ethan Chargois
+6-9 / 235
+ 0.8872 (HS)
+PF
+SMU
+?
+Seth Lundy
+Seth Lundy
+6-6 / 195
+ 0.8868 (HS)
+SF
+Penn State
+?
+KJ Buffen
+KJ Buffen
+6-7 / 205
+ 0.8861 (HS)
+SF
+Ole Miss
+?
+Madut Akec
+Madut Akec
+6-7 / 208
+ 0.8800 (HS)
+SF
+USF
+?
+Zondrick Garrett
+Zondrick Garrett
+6-7 / 190
+ 0.8800 (HS)
+PF
+South Alabama
+?
+Kendall Lewis
+Kendall Lewis
+6-7 / 190
+ 0.8800 (HS)
+SF
+Appalachian State
+?
+Kevin Marfo
+Kevin Marfo
+6-8 / 245
+ 0.8755 (HS)
+PF
+Texas A&M
+?
+Ahmad Rand
+Ahmad Rand
+6-8 / 180
+ 0.8728 (HS)
+PF
+Memphis
+?
+Akol Arop
+Akol Arop
+6-5 / 190
+ 0.8723 (HS)
+SF
+Nebraska
+?
+Kevin Easley
+Kevin Easley
+6-6 / 210
+ 0.8710 (HS)
+SF
+TCU
+?
+Cobie Barnes
+Cobie Barnes
+6-5 / 175
+ 0.8700 (HS)
+SF
+Indiana State
+?
+Kris Monroe
+Kris Monroe
+6-7 / 220
+ 0.8681 (HS)
+SF
+Providence
+?
+JoJo Toppin
+JoJo Toppin
+6-5 / 190
+ 0.8678 (HS)
+SF
+Georgia State
+?
+Joel Soriano
+Joel Soriano
+6-9 / 190
+ 0.8678 (HS)
+PF
+Fordham
+?
+Jaylen Butz
+Jaylen Butz
+6-9 / 205
+ 0.8631 (HS)
+PF
+DePaul
+?
+Marcus Santos-Silva
+Marcus Santos-Silva
+6-7 / 265
+ 0.8606 (HS)
+SF
+Immediate
+Texas Tech
+?
+Jayden Gardner
+Jayden Gardner
+6-7 / 235
+ 0.8600 (HS)
+PF
+East Carolina
+?
+Terrell Brown
+Terrell Brown
+6-8 / 205
+ 0.8585 (HS)
+PF
+Pittsburgh
+?
+Dimon Carrigan
+Dimon Carrigan
+6-9 / 215
+ 0.8578 (HS)
+PF
+FIU
+?
+David Didenko
+David Didenko
+6-9 / 216
+ 0.8578 (HS)
+PF
+Georgia Tech
+?
+A.J. Taylor
+A.J. Taylor
+6-7 / 205
+ 0.8556 (HS)
+SF
+NC State
+?
+Rashun Williams
+Rashun Williams
+6-6 / 222
+ 0.8556 (HS)
+SF
+USF
+?
+John Bol Ajak
+John Bol Ajak
+6-10 / 205
+ 0.8535 (HS)
+PF
+Syracuse
+?
+Everett Ray
+Everett Ray
+6-7 / 220
+ 0.8530 (HS)
+PF
+SMU
+?
+James Jean-Marie
+James Jean-Marie
+6-7 / 215
+ 0.8517 (HS)
+SF
+Hawaii
+?
+Patrick Kelly
+Patrick Kelly
+6-8 / 205
+ 0.8410 (HS)
+SF
+Penn State
+?
+De'Sean Allen-Eikens
+De'Sean Allen-Eikens
+6-6 / 212
+ 0.8400 (HS)
+SF
+North Dakota
+?
+Robby Robinson
+Robby Robinson
+6-8 / 205
+ 0.8333 (HS)
+PF
+Nevada
+?
+Isaih Moore
+Isaih Moore
+6-9 / 205
+ 0.8278 (HS)
+PF
+St. John's
+?
+Jerome Desrosiers
+Jerome Desrosiers
+6-6 / 210
+ 0.8220 (HS)
+PF
+Princeton
+?
+Gerald Drumgoole
+Gerald Drumgoole
+6-6 / 195
+ 0.8114 (HS)
+SF
+Pittsburgh
+?
+Clashon Gaffney
+Clashon Gaffney
+6-6.5 / 210
+ 0.7998 (HS)
+SF
+?
+Bitumba Baruti
+Bitumba Baruti
+6-7 / 230
+ 0.7900 (HS)
+PF
+East Carolina
+?
+John Harrar
+John Harrar
+6-8 / 230
+ 0.7631 (HS)
+PF
+Penn State
+?
+Chase Barrs
+Chase Barrs
+- / -
+ N/A (HS)
+PF
+Western Michigan
+?
+Jimmy Boeheim
+Jimmy Boeheim
+6-6 / 190
+ N/A (HS)
+SF
+Cornell
+?
+Randy Brumant
+Randy Brumant
+6-6 / 190
+ N/A (HS)
+SF
+Columbia
+?
+Brandton Chatfield
+Brandton Chatfield
+6-10 / 210
+ N/A (HS)
+PF
+Washington State
+?
+Donovan Clay
+Donovan Clay
+6-7 / 205
+ N/A (HS)
+PF
+Saint Louis
+100%
+Valparaiso
+?
+Matt DeWolf
+Matt DeWolf
+6-9 / 230
+ N/A (HS)
+PF
+Brown
+?
+Danilo Djuricic
+Danilo Djuricic
+6-7 / 190
+ N/A (HS)
+PF
+Harvard
+?
+Parker Fox
+Parker Fox
+6-8 / 210
+ N/A (HS)
+SF
+?
+Tanner Groves
+Tanner Groves
+6-9 / 235
+ N/A (HS)
+SF
+Eastern Washington
+?
+Noah Gurley
+Noah Gurley
+6-8 / 190
+ N/A (HS)
+SF
+Furman
+?
+Cameron Holden
+Cameron Holden
+6-5 / 190
+ N/A (HS)
+SF
+UT Martin
+?
+Arkel Lamar
+Arkel Lamar
+6-5 / 225
+ N/A (HS)
+SF
+UMBC
+?
+Drew LaMont
+Drew LaMont
+6-8 / 225
+ N/A (HS)
+PF
+Wyoming
+?
+John Meeks
+John Meeks
+6-6 / 220
+ N/A (HS)
+SF
+Immediate
+Bucknell
+?
+Joel Ntambwe
+Joel Ntambwe
+6-9 / 215
+ N/A (HS)
+SF
+Texas Tech
+?
+Camron Reece
+Camron Reece
+6-7 / 5
+ N/A (HS)
+SF
+Akron
+?
+Chris Spenkuch
+Chris Spenkuch
+6-7 / 190
+ N/A (HS)
+PF
+Louisiana
+?
+Tre Williams
+Tre Williams
+6-6 / 190
+ N/A (HS)
+SF
+Indiana State
+?
+A.J. Wilson
+A.J. Wilson
+6-6 / 0
+ N/A (HS)
+SF
+George Mason
+?
+Roger "RJ" Wilson Jr
+Roger "RJ" Wilson Jr
+6-6 / 240
+ N/A (HS)
+PF
+Immediate
+Appalachian State
+?
+Center
+Pos
+Prediction
+Eligible
+Transfer
+Walker Kessler
+Walker Kessler
+7-1 / 245
+ 0.9923 (HS)
+C
+North Carolina
+?
+Aidan Igiehon
+Aidan Igiehon
+6-10 / 235
+ 0.9794 (HS)
+C
+Louisville
+?
+Ira Lee
+Ira Lee
+6-8 / 210
+ 0.9766 (HS)
+C
+Arizona
+?
+Qudus Wahab
+Qudus Wahab
+6-10 / 230
+ 0.9300 (HS)
+C
+Georgetown
+?
+Martice Mitchell
+Martice Mitchell
+6-10 / 190
+ 0.9217 (HS)
+C
+Minnesota
+?
+Ejike Obinna
+Ejike Obinna
+6-10 / 243
+ 0.9052 (HS)
+C
+Vanderbilt
+?
+Josh Carlton
+Josh Carlton
+6-11 / 240
+ 0.8934 (HS)
+C
+Immediate
+Connecticut
+?
+Sam Freeman
+Sam Freeman
+6-10 / 240
+ 0.8678 (HS)
+C
+Minnesota
+?
+Joe Hedstrom
+Joe Hedstrom
+6-10 / 200
+ 0.8600 (HS)
+C
+Wisconsin
+?
+Edra Luster
+Edra Luster
+7-0 / 245
+ 0.7900 (HS)
+C
+Immediate
+East Carolina
+?
+Liam Robbins
+Liam Robbins
+7-0 / 235
+ N/A (HS)
+C
+Vanderbilt
+100%
+Minnesota
+?
+Patrick Tape
+Patrick Tape
+6-10 / 220
+ N/A (HS)
+C
+Immediate
+Duke
+?
+Most Recent Updates
+Au'Diese Toney
+Au'Diese Toney
+SG
+Pittsburgh
+Arkansas
+Stanley Umude
+Stanley Umude
+SG
+South Dakota
+Arkansas
+Chris Lykes
+Chris Lykes
+PG
+Miami
+Arkansas
+Garrison Brooks
+Garrison Brooks
+PF
+North Carolina
+?
+Gabe Kalscheur
+Gabe Kalscheur
+SG
+Minnesota
+Iowa State
+Corey Walker
+Corey Walker
+PF
+Tennessee
+?
+David Didenko
+David Didenko
+PF
+Georgia Tech
+?
+Karrington Davis
+Karrington Davis
+SG
+Southern Illinois
+default avatar
+Karrington Davis
+Karrington Davis
+SG
+Nebraska
+Southern Illinois
+Khristian Lander
+Khristian Lander
+PG
+Indiana
+Indiana
+Transfer Portal 411
+Under the college transfer policy, when a student-athlete informs a school that he wishes to transfer, that institution has two business days to enter that athlete's name into a national transfer portal. Once the student-athlete's name is in the database, other coaches from any school can contact that individual.
+
+LEARN MORE
+Recruit Search
+Basketball 2021 
+
+Enter first, last, or full name
+Targets
+Offers
+Visits
+Commits
+Decommits
+G
+F
+C
+2021 Player Rankings
+1
+Chet Holmgren
+Chet Holmgren
+C
+31 Schools
+2
+Jaden Hardy
+Jaden Hardy
+CG
+29 Schools
+3
+Paolo Banchero
+Paolo Banchero
+PF
+Duke
+4
+Patrick Baldwin Jr.
+Patrick Baldwin Jr.
+SF
+23 Schools
+5
+Jabari Smith
+Jabari Smith
+PF
+Auburn
+6
+Hunter Sallis
+Hunter Sallis
+CG
+Gonzaga
+7
+AJ Griffin
+AJ Griffin
+SF
+Duke
+8
+Caleb Houstan
+Caleb Houstan
+PF
+Michigan
+9
+JD Davison
+JD Davison
+PG
+Alabama
+10
+Peyton Watson
+Peyton Watson
+SF
+UCLA
+FULL LIST
+2021 Recruiting Rankings
+1
+Michigan
+Michigan
+69.44
+2
+Florida State
+Florida State
+65.96
+3
+Alabama
+Alabama
+65.83
+4
+Duke
+Duke
+65.79
+5
+Villanova
+Villanova
+65.14
+6
+Kentucky
+Kentucky
+64.55
+7
+Kansas
+Kansas
+63.34
+8
+Memphis
+Memphis
+63.20
+9
+Michigan State
+Michigan State
+63.05
+10
+Baylor
+Baylor
+62.82
+VIEW ALL | CLASS CALCULATOR
